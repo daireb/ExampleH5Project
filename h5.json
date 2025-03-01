@@ -1,0 +1,6 @@
+{
+	"output": "dist",
+	"generateTypeScript": true,
+	"filename": "SharedLogic.js"
+}
+  
