@@ -46,9 +46,20 @@ The main logic is in `SharedLogic.cs`, which compiles into the `/dist` folder. T
 
 It's important to require the `h5.js` file before the shared logic, as it sets up the H5 environment.
 
+#### Example Javascript Import
+```javascript
+require(`../dist/h5.js`);
+require(`../dist/MySharedLogic.js`);
+
+// Rest of your script
+```
+
+#### Example Typescript Import
 ```typescript
 /// <reference path="../dist/MySharedLogic.d.ts" />
 
 require(`../dist/h5.js`);
 require(`../dist/MySharedLogic.js`);
+
+// Rest of your script
 ```
