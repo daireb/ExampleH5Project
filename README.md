@@ -4,7 +4,9 @@
 
 This is an example project showing how [H5](https://github.com/curiosity-ai/h5) can be used to write modules for Node/TS rather than just building `index.html` and web-apps. It demonstrates how to share logic between C# and TypeScript projects.
 
-It may seem simple, but as someone who is new to this and was struggling for the last day on this, I hope this repo helps someone in future!
+It may seem simple, but as someone who is new to this and was struggling for the last day on this, I hope this repo helps someone in future! 
+
+**TL;DR You can just ignore `index.html` and require the .js files directly, pretty much!**
 
 ## Getting Started
 
