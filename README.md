@@ -31,7 +31,15 @@ To compile from C# to JS/TS, run the following command:
     ```
 
 ### Running the Project
-To run the project, execute the TypeScript or JavaScript files as normal.
+To run the project, execute the TypeScript or JavaScript files as normal:
+    ```
+    node src/test.js
+    ```
+    or
+    ```
+    npx ts-node src/test.ts
+    ```
+
 
 ### Usage
 The main logic is in `SharedLogic.cs`, which compiles into the `/dist` folder. The logic can then be accessed as shown in `test.js` and `test.ts`.
