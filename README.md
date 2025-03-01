@@ -2,7 +2,9 @@
 
 ## Overview
 
-This is an example project showing how H5 can be used to write modules in JS/TS rather than just websites. It demonstrates how to share logic between C# and TypeScript projects.
+This is an example project showing how [H5](https://github.com/curiosity-ai/h5) can be used to write modules for JS/TS rather than just building `index.html`. It demonstrates how to share logic between C# and TypeScript projects.
+
+It may seem simple, but as someone who is new to this and was struggling for the last day on this, I hope this repo helps someone in future!
 
 ## Getting Started
 
