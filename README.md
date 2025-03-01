@@ -26,7 +26,7 @@ This is an example project showing how H5 can be used to write modules in JS/TS 
 
 ### Building the Project from C#
 To compile from C# to JS/TS, run the following command:
-    ```sh
+    ```
     dotnet build
     ```
 
